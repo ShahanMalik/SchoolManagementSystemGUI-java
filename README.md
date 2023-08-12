@@ -10,7 +10,7 @@
 <ul>
   <li>Add data for labour, students, office staff, and the principal.</li>
   <li>View data in a table.</li>
-  <li>Store data in a file.</li>
+  <li>Store data in a file (File Handling) .</li>
   <li>data store in a CSV file.</li>
   <li>etc</li>
 </ul>
